@@ -1,1 +1,1 @@
-console.log("Feature b first commit! Modified by Master!");
+console.log("Feature b first commit! Modified by Master first and Feature-b later on!");
